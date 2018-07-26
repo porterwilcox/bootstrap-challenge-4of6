@@ -5,13 +5,14 @@
 .chief {
     background-image: url(/assets/images/Squamish\ Chief_1.jpg);
     width: 100vw;
-    height: 80vh;
+    height: fit-content;
 }
 
 #rack {
-    border-radius: 15%;
+    border-radius: 50%;
     opacity: 0.9;
     padding-top: 3%;
+    padding-bottom: 25%;
 }
 
 .right {
@@ -47,5 +48,26 @@ header>div {
 
 .specs {
     background-color: #53704E;
-    height: 30vh;
+    height: fit-content;
+}
+
+.button {
+    padding-top: 8%;
+    font-family: 'Permanent Marker';
+    font-size: 2em;
+}
+
+button {
+    border: none;
+    background: linear-gradient(90deg, #22B4DB 20%, #EBC262 35%, #EBC262 50%, #911D35 60%, #911D35 75%, #53704E 85%, #53704E 100%);
+    opacity: 0.7;
+}
+
+button:hover {
+    background: linear-gradient(90deg, #22B4DB 20%, #EBC262 35%, #EBC262 50%, #911D35 60%, #911D35 75%, #53704E 85%, #53704E 100%);
+    opacity: 1;
+}
+
+.wht {
+    color: white;
 }
