@@ -3,7 +3,7 @@
     height: 100vh;
 }
 .chief {
-    background-image: url(/assets/images/Squamish\ Chief_1.jpg);
+    background-image: url('/assets/images/Squamish\ Chief_1.jpg');
     width: 100vw;
     height: fit-content;
 }
