@@ -89,7 +89,22 @@ button:hover {
     padding-bottom: 1%;
 }
 
+.p-b-3 {
+    padding-bottom: 3%;
+}
+
 input {
     margin: auto;
     text-align: center;
+}
+
+.map {
+    background-color: #911D35;
+    height: fit-content;
+}
+
+.find-climbs {
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 3px 3px 5px grey;
 }
