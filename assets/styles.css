@@ -4,8 +4,8 @@
 }
 .chief {
     background-image: url('https://github.com/porterwilcox/bootstrap-challenge-4of6/blob/master/assets/images/Squamish%20Chief_1.jpg?raw=true');
-    width: 100vw;
     height: fit-content;
+    background-size: cover;
 }
 
 #rack {
@@ -107,4 +107,10 @@ input {
     background-color: white;
     border-radius: 5%;
     box-shadow: 3px 3px 5px grey;
+}
+
+.placement {
+    background-image: url("assets/images/Friends_Placement.jpg");
+    background-size: cover;
+    height: 50vh;
 }
