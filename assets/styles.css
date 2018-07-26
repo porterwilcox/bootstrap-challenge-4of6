@@ -1,0 +1,51 @@
+.main-page {
+    width: 100vw;
+    height: 100vh;
+}
+.chief {
+    background-image: url(/assets/images/Squamish\ Chief_1.jpg);
+    width: 100vw;
+    height: 80vh;
+}
+
+#rack {
+    border-radius: 15%;
+    opacity: 0.9;
+    padding-top: 3%;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.white {
+    color: white;
+    padding-top: 4%;
+    font-family: 'Righteous';
+    font-size: 4em;
+}
+
+.colorful {
+    background: linear-gradient(90deg, #22B4DB 20%, #EBC262 35%, #EBC262 50%, #911D35 60%, #911D35 75%, #53704E 85%, #53704E 100%);
+    border-radius: 5%;
+}
+
+.texty {
+    color: black;
+    font-size: 3em;
+    text-shadow: 10px 10px 8px white;
+    font-family: 'Permanent Marker';
+}
+
+header>div {
+    padding-top: 3%;    
+}
+
+.specs {
+    background-color: #53704E;
+    height: 30vh;
+}
