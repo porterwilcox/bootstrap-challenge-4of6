@@ -3,7 +3,7 @@
     height: 100vh;
 }
 .chief {
-    background-image: url('/assets/images/Squamish\ Chief_1.jpg');
+    background-image: url('/assets/images/Squamish Chief_1.jpg');
     width: 100vw;
     height: fit-content;
 }
@@ -70,4 +70,26 @@ button:hover {
 
 .wht {
     color: white;
+}
+
+.news {
+    background-color: #EBC262;
+    height: fit-content;
+}
+
+.p-t-3 {
+    padding-top: 3%;
+}
+
+.p-t-1 {
+    padding-top: 1%;
+}
+
+.p-b-1 {
+    padding-bottom: 1%;
+}
+
+input {
+    margin: auto;
+    text-align: center;
 }
