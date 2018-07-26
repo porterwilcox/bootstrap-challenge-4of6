@@ -96,6 +96,8 @@ button:hover {
 input {
     text-align: right;
     width: 7em;
+    background: rgb(214, 212, 212);
+    color: black;
 }
 
 .map {
@@ -104,10 +106,11 @@ input {
 }
 
 .find-climbs {
-    background-color: white;
     border-radius: 5%;
-    box-shadow: 3px 3px 5px grey;
+    box-shadow: 5px 5px 8px white;
     width: fit-content;
+    border: 10px ridge #911D35;
+    color: white;
 }
 
 .placement {
@@ -128,4 +131,5 @@ input {
 #fake {
     width: 10em;
     text-align: left;
+    background: white;
 }
