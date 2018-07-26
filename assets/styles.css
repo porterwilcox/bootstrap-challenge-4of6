@@ -94,8 +94,8 @@ button:hover {
 }
 
 input {
-    margin: auto;
-    text-align: center;
+    text-align: right;
+    width: 7em;
 }
 
 .map {
@@ -107,10 +107,20 @@ input {
     background-color: white;
     border-radius: 5%;
     box-shadow: 3px 3px 5px grey;
+    width: fit-content;
 }
 
 .placement {
     background-image: url("https://github.com/porterwilcox/bootstrap-challenge-4of6/blob/master/assets/images/Friends_Placement.jpg?raw=true");
     background-size: cover;
     height: 40vh;
+}
+
+/* * {
+    outline: 1px solid red;
+} */
+
+.g-map {
+    background-image: url("https://github.com/porterwilcox/bootstrap-challenge-4of6/blob/master/assets/images/bcw-to-bc.png?raw=true");
+    background-size: cover;
 }
