@@ -3,7 +3,7 @@
     height: 100vh;
 }
 .chief {
-    background-image: url('/assets/images/Squamish Chief_1.jpg');
+    background-image: url('https://github.com/porterwilcox/bootstrap-challenge-4of6/blob/master/assets/images/Squamish%20Chief_1.jpg?raw=true');
     width: 100vw;
     height: fit-content;
 }
