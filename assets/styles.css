@@ -119,10 +119,6 @@ input {
     height: 40vh;
 }
 
-/* * {
-    outline: 1px solid red;
-} */
-
 .g-map {
     background-image: url("https://github.com/porterwilcox/bootstrap-challenge-4of6/blob/master/assets/images/bcw-to-bc.png?raw=true");
     background-size: cover;
